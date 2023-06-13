@@ -1,0 +1,12 @@
+2023/06/09 16:11:47 reststruct.go:212: INFO | Using Map with Index: authentication
+2023/06/09 16:11:47 reststruct.go:226: INFO | sStructName: Authentication
+2023/06/09 16:11:47 reststruct.go:227: INFO | sFilename: authentication
+2023/06/09 16:11:47 reststruct.go:228: INFO | sUrl: http://localhost:3000/api/1/authentication
+2023/06/09 16:11:47 restapi.go:241: INFO | In Restapi New
+2023/06/09 16:11:47 restapi.go:970: WARNING | bJsonOnly set - data not fully processed
+2023/06/09 16:11:47 reststruct.go:212: INFO | Using Map with Index: vehicles
+2023/06/09 16:11:47 reststruct.go:226: INFO | sStructName: Vehicles
+2023/06/09 16:11:47 reststruct.go:227: INFO | sFilename: vehicles
+2023/06/09 16:11:47 reststruct.go:228: INFO | sUrl: http://localhost:3000/api/1/vehicles
+2023/06/09 16:11:47 restapi.go:241: INFO | In Restapi New
+2023/06/09 16:11:47 restapi.go:970: WARNING | bJsonOnly set - data not fully processed
